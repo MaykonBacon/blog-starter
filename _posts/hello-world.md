@@ -4,11 +4,7 @@ excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-<<<<<<< HEAD
   name: Larissa Souza
-=======
-  name: Tim Neutkens
->>>>>>> d099c9d65d97ce71af106c25ff04ccc721a6ede3
   picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
