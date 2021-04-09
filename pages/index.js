@@ -14,7 +14,11 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
+<<<<<<< HEAD
           <title>Psicóloga Larissa Souza</title>
+=======
+          <title>Next.js Blog Example with {CMS_NAME}</title>
+>>>>>>> d099c9d65d97ce71af106c25ff04ccc721a6ede3
         </Head>
         <Container>
           <Intro />
