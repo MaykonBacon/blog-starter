@@ -25,11 +25,8 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-<<<<<<< HEAD
               O código code for this blog is{' '}
-=======
-              The source code for this blog is{' '}
->>>>>>> d099c9d65d97ce71af106c25ff04ccc721a6ede3
+
               <a
                 href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
                 className="underline hover:text-success duration-200 transition-colors"
