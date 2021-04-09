@@ -10,5 +10,6 @@ export default function Intro() {
         Psicóloga e Tech Recruiter
       </h4>
     </section>
+    
   )
 }
